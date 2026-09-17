@@ -1,2 +1,2 @@
 Alert("Hola mundo")
-("Hola mundo_editado")
+Alert("Hola mundo_editado")
